@@ -11,3 +11,5 @@ I have performed several steps to build this Bike Purchase Dashboard.
 
 Note:
 I have made raw dataset and worked dataset separate and have added separate Dashboard sheet in file.
+
+![Dashboard](https://user-images.githubusercontent.com/78916771/216929461-870a8b12-a6b4-4e5e-81c3-7de4584ca4e1.jpg)
